@@ -1,2 +1,2 @@
 # JS_Notes
-Javascript Notes - Basic
+Javascript Notes for Beginners
