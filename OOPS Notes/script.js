@@ -46,7 +46,7 @@ class Employee extends Person {
   }
 }
 let employee1 = new Employee("Sagar", 26, "Developer");
-employee1.work(); // its class
+employee1.work(); // same class
 employee1.greet(); // from parent class
 
 //-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
