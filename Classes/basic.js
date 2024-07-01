@@ -16,6 +16,7 @@ class Dog extends Animal {
   constructor(name, breed) {
     super(name); // super calls the parent class constructor so it gets 'name'
     // and 'name' must be passed while calling using new keyword
+    // new our case we passed Buddy
     this.breed = breed;
   }
 }
