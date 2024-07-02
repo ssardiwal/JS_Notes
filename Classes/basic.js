@@ -1,7 +1,8 @@
 //------------------------------------------------------------------------------------------------------
-// Classes are referred as Constructor function
-// new keyword automatically calls the class contructor
-// in case of extends, extends properties must be passed in super
+// Classes are the blueprint to create objects.
+// They are also referred as a Constructor function
+// New keyword automatically calls the class constructor
+//In case of extends, extends properties must be passed in the super
 // means supers calls the parent class constructor
 //
 // this refers to the class scope because this always refers to the object in which it is called
